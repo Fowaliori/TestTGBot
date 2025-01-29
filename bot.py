@@ -1,7 +1,6 @@
 import telebot
 from DataBase import *
 
-bot = telebot.TeleBot('6286556342:AAE-rqaQ6xwtefzj9fSTbd9jm1ITP7yFejU')
 
 from telebot import types
 
